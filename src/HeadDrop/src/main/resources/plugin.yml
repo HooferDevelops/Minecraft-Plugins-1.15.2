@@ -1,0 +1,6 @@
+name: Main
+version: ${project.version}
+main: engineer.iman.headdrop.main.Main
+api-version: 1.13
+authors: [Hoofer]
+description: Drop heads upon death

@@ -1,0 +1,20 @@
+name: Duels
+version: 1.15.2
+main: engineer.iman.duels.Duel
+api-version: 1.13
+authors: [Hoofer]
+depend: [Essentials]
+
+description: Adds a new enchantment book to minecraft!
+website: iman.engineer
+
+commands:
+  duel:
+    description: Start a fight with someone.
+    usage: /duel [name]
+  pvp:
+    description: Toggle pvp.
+    usage: /pvp
+  bounty:
+    description: Add a bounty to someone.
+    usage: /bounty [name] [amt]

@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "fca0d870-dd82-4af2-9532-7c944171f64b",
+    "name": "Inkvy",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "8036eb8f-ac86-4767-8367-a6e1f3323d93",
+    "name": "DiscordCanary",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

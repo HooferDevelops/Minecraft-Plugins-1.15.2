@@ -1,0 +1,6 @@
+name: JukeboxHopper
+version: ${project.version}
+main: engineer.iman.jukeboxhopper.Jukeboxhopper
+api-version: 1.13
+authors: [Hoofer]
+description: Let's hoppers input into jukeboxes

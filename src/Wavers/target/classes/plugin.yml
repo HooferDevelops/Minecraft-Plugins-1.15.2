@@ -1,0 +1,12 @@
+name: Wavers
+version: 1.0-SNAPSHOT
+main: engineer.iman.wavers.wavers.Wavers
+api-version: 1.13
+depend: [Essentials]
+authors: [Hoofer]
+description: Adds Wavers to the game using Essentials Econ
+
+commands:
+  waver:
+    description: Create a redeemable waver with your money.
+    usage: /waver [money]

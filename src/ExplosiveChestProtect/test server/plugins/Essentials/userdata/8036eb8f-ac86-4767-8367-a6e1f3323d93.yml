@@ -1,0 +1,23 @@
+lastAccountName: DiscordCanary
+timestamps:
+  login: 1589057958669
+  logout: 1589066792789
+  lastteleport: 1588799496048
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 63.22372728761144
+  y: 75.36409671352826
+  z: 157.13348499467213
+  yaw: 83.10184
+  pitch: 13.199919
+logoutlocation:
+  world: world
+  x: 52.22762627867014
+  y: 72.0
+  z: 88.35840968692172
+  yaw: 96.39148
+  pitch: 53.39958
+godmode: false
+money: '58998000000.0'
+afk: false

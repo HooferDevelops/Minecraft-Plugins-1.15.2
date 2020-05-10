@@ -1,0 +1,7 @@
+name: Explosivechestprotect
+version: 1.0-SNAPSHOT
+main: iman.engineer.explosivechestprotect.Explosivechestprotect
+api-version: 1.13
+authors: [Hoofer]
+description: Protect chests from explosions
+website: iman.engineer

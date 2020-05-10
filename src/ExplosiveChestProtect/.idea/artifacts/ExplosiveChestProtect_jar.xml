@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ExplosiveChestProtect:jar">
+    <output-path>$PROJECT_DIR$/test server/plugins</output-path>
+    <root id="archive" name="ExplosiveChestProtect.jar">
+      <element id="module-output" name="ExplosiveChestProtect" />
+    </root>
+  </artifact>
+</component>

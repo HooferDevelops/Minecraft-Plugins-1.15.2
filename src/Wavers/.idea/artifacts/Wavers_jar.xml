@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Wavers:jar">
+    <output-path>$PROJECT_DIR$/../ExplosiveChestProtect/test server/plugins</output-path>
+    <root id="archive" name="Wavers.jar">
+      <element id="module-output" name="Wavers" />
+      <element id="extracted-dir" path="D:/Desktop/Vault.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
