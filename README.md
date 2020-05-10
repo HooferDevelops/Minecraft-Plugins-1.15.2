@@ -7,6 +7,10 @@ These are my minecraft plugins made for version 1.15.2 on Spigot.
 
   - These plugins were made for special use cases. Some plugins may require Vault (1.15.2) or EssentialsX (1.15.2), thanks!
 
+## Source Code
+
+  - All of my plugins are open sourced, feel free to see how things work. I'm new to Java, so things might look a little weird. Apologies in advance!
+
 ## Plugin Information
 
 #### Duel 1.15.2
