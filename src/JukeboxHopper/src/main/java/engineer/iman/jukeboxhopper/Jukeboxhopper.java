@@ -129,8 +129,6 @@ public final class Jukeboxhopper extends JavaPlugin implements Listener {
 
         BlockFace face = data.getFacing();
         Block subject = hopperBlock.getRelative(face);
-        getServer().getConsoleSender().sendMessage(face.toString());
-        getServer().getConsoleSender().sendMessage(subject.getType().toString());
         if (subject.getType() == Material.JUKEBOX){
             getServer().getConsoleSender().sendMessage(ChatColor.RED + "i'm connected to a jukebox!");
             Jukebox juke = (Jukebox) subject.getState();
@@ -147,10 +145,8 @@ public final class Jukeboxhopper extends JavaPlugin implements Listener {
     @EventHandler
     public void blockUpdate(InventoryMoveItemEvent e){
         if (e.getDestination().getType() == InventoryType.HOPPER) {
-            getServer().getConsoleSender().sendMessage(ChatColor.RED + "i'm a hopper");
             Block hopperBlock = e.getDestination().getLocation().getBlock();
             ItemStack item = e.getItem();
-            getServer().getConsoleSender().sendMessage( item.getType().toString());
             if (item.getType().toString().contains("DISC")) {
                 checkHopperBlock(hopperBlock,item);
             }
@@ -159,11 +155,8 @@ public final class Jukeboxhopper extends JavaPlugin implements Listener {
     @EventHandler
     public void itemEnterHopper(InventoryPickupItemEvent e){
         if (e.getInventory().getType() == InventoryType.HOPPER){
-            getServer().getConsoleSender().sendMessage(ChatColor.RED + "i'm a hopper");
             Block hopperBlock = e.getInventory().getLocation().getBlock();
-            getServer().getConsoleSender().sendMessage(hopperBlock.toString());
             ItemStack item = e.getItem().getItemStack();
-            getServer().getConsoleSender().sendMessage( item.getType().toString());
             if (item.getType().toString().contains("DISC")){
                 checkHopperBlock(hopperBlock,item);
             }
