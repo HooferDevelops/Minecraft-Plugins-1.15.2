@@ -6,11 +6,19 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09774e76-71d4-49a7-99a1-03b2599a7922" name="Default Changelist" comment="" />
+    <list default="true" id="09774e76-71d4-49a7-99a1-03b2599a7922" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/JukeboxHopper_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/JukeboxHopper_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/engineer/iman/jukeboxhopper/Jukeboxhopper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/engineer/iman/jukeboxhopper/Jukeboxhopper.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -21,6 +29,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1bgbfzobXFl7LpUbbhqimpgW94T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -32,8 +41,9 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ExplosiveChestProtect/test server/plugins" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3770115" />
   </component>
@@ -99,14 +109,18 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="1130" y="355" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1589057855711" />
-    <state x="1180" y="313" key="FileChooserDialogImpl" timestamp="1589057885780">
+    <state x="1180" y="313" key="FileChooserDialogImpl" timestamp="1589410863166">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="1180" y="313" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1589057885780" />
-    <state x="880" y="146" key="SettingsEditor" timestamp="1589064593127">
+    <state x="1180" y="313" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1589410863166" />
+    <state x="549" y="132" key="SettingsEditor" timestamp="1589410866583">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="880" y="146" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1589064593127" />
+    <state x="549" y="132" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1589410866583" />
+    <state x="656" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1589410818921">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="656" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1589410818921" />
     <state x="1104" y="465" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589064592834">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

@@ -103,7 +103,7 @@ public final class Jukeboxhopper extends JavaPlugin implements Listener {
                 checkHopperBlock(hopperBlock, null);
 
             }
-        }, (getLengthOfDisc(item.getType())/50) + 40);
+        }, (getLengthOfDisc(item.getType())/50) + 80);
 
         Bukkit.getScheduler().scheduleSyncDelayedTask(this, new Runnable() {
             public void run() {
@@ -142,10 +142,7 @@ public final class Jukeboxhopper extends JavaPlugin implements Listener {
 
         }
     }
-    @EventHandler
-    public void BlockPhysicsEvent(BlockPhysicsEvent e){
-        getServer().getConsoleSender().sendMessage(e.getSourceBlock().getType().toString());
-    }
+
 
     @EventHandler
     public void blockUpdate(InventoryMoveItemEvent e){
